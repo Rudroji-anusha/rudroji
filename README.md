@@ -25,6 +25,6 @@ A beautifully designed, fully responsive landing page built with HTML and CSS. F
 
 ## 🧪 Live Demo
 
-[👉 Click here to view](https://yourusername.github.io/project-name)
+[👉 Click here to view](https://github.com/Rudroji-anusha/rudroji/commits?author=Rudroji-anusha)
 
 
